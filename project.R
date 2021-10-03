@@ -40,3 +40,6 @@ base_f_mil <- base_f %>%
 
 p <- ggplot(base_f_mil,aes(x=typ , y = s03_04_ri, fill=s00_28_ri)) + geom_boxplot()
 p
+
+
+###Apporter une modification du fichier initiale
